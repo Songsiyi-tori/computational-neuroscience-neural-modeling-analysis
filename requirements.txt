@@ -1,0 +1,7 @@
+# Original dependency versions were not recorded.
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+jupyterlab
